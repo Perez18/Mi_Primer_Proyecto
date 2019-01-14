@@ -1,0 +1,47 @@
+header
+{
+ height: 200px;
+background: gray;
+color: white; 
+padding-top: 20px;
+border: 2px solid #F0F8FF ;
+
+}
+
+header:hover
+{
+
+ background: black;
+    color: #F0F8FF	;
+ transition: background 1s color 1s;
+
+}
+
+.cuadro{
+  
+    height: auto;
+    padding: 5px;
+
+
+}
+
+.cuadrof
+{
+  width: auto;
+  height: auto;
+ 
+}
+
+.foto
+{
+
+
+
+}
+
+footer
+{
+height: 100px;
+background: black;
+color: #F0F8FF;
+}
